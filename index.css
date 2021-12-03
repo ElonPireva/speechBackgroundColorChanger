@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    margin: 50px;
+}
+
+#btn {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#rcOutput {
+    margin-top: 20px;
+}
